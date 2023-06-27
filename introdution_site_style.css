@@ -1,0 +1,40 @@
+body{
+    background-color: #253259;
+}
+h1{
+    color: #F2F2F2;
+    font-size: 300%;
+    text-align: center;
+}
+h3{
+    color: #F2F2F2;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+.info{
+    height: auto;
+    width: auto;
+    color: #F2F2F2;
+    border: 10px dashed #131A26;
+    border-radius: 1000px;
+    text-align: center;
+    background-color: #037F8C;
+    padding: 2%;
+}
+img{
+    width: 50%;
+    height: 50%;
+    height: auto;
+    border: 10px solid #131A26;
+    border-radius: 100%;
+  }
+.ps{
+    color: #131A26;
+    text-align: center;
+  }
+span{
+    width: 20px;
+    height: 20px;
+  }
